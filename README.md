@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe Axberg
-- 👀 I’m interested in Agricultural IoT, Precision Ag, Cloud Computing, High Performance Computing, Open Source
+- 👀 I’m interested in Small-Scale Agriculture and IoT
 - 🌱 Currently building an agricultural IoT system using LoRaWAN sensors.
 - 💞️ I’m looking to collaborate on Ag IoT / Precision Ag or other IoT things
 - 📫 How to reach me joeaxberg@axnetlabs.org
