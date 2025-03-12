@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe Axberg
-- 👀 I’m interested in Technical Education in Computing and IT.
+- 👀 I’m interested in Technical Education in 2 and 4 year programs in Computing and IT.
 - 🌱 Currently working on ideas for automating programming assignment grading using containers.
 - 📫 How to reach me joeaxberg@axnetlabs.org
 
