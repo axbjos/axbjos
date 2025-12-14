@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joe Axberg
-- 👀 I’m interested in Technical Education in 2 and 4 year programs in Computing and IT.
-- 🌱 Currently working on ideas for automating programming assignment grading using containers.
-- 📫 How to reach me joeaxberg@axnetlabs.org
+- 👀 I'm interesting in Audio and Sound related to MIDI, Microcontrollers, and FPGA.
+- 🌱 Currently exploring FPGA development using Xilinx and Diglent FPGA boards.
+- 📫 How to reach me joeaxberg@outlook.com
 
 <!---
 axbjos/axbjos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
